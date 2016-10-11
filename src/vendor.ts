@@ -9,3 +9,6 @@ import '@angular/router';
 import 'rxjs';
 // Other vendors for example jQuery, Lodash or Bootstrap
 // You can import js, ts, css, sass, ...
+
+//Material theme
+import '@angular/material/core/theming/prebuilt/purple-green.css';
